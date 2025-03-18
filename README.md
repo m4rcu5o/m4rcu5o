@@ -40,7 +40,7 @@
 ---
 
 ### 💡 Projects Worth Checking Out
-- 🏆 [Pump fun smart contract](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract) - Solana Pump fun smart contract integrating pump.fun + meteora CPI.
+- 🏆 [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract) - Solana Pump fun smart contract integrating pump.fun + meteora CPI.
 - 🔥 [Solana-Twitter-AI-Agent](https://github.com/m4rcu5o/Solana-Twitter-AI-Agent) - Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
 - 🌐 [Pump fun bundler](https://github.com/m4rcu5o/Pump.fun-bundler) - An open-source #Solana #Bundler for #Pump.Fun that enables you to create a token and package it with 25 purchases.
 
