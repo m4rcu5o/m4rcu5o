@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm Marcus!</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 💻 Blockchain Enthusiast | 🌐 Open Source Contributor
+  🚀 Full Stack Developer | 💻 Blockchain and AI Enthusiast | 🌐 Open Source Contributor
 </p>
 
 ---
