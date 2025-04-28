@@ -8,6 +8,7 @@
 
 ### 🌟 About Me
 - 🔭 Currently working on **Web2 and Web3 applications**
+- 🔭 Provide Services for **Trading bot**
 - 🌱 Constantly learning **LLM and other AI models**
 - 💬 Ask me about **Smart Contracts, DApps, AI Agent and Full Stack Development**
 - ⚡ Fun fact: I’m passionate about blending **blockchain technology** with **user-centric applications**
