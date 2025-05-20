@@ -35,7 +35,7 @@
 ---
 
 ### 🔗 Connect with Me
-- [Telegram](https://t.me/m4rcu5sol)
+- [Telegram](https://t.me/stevensprg)
 
 ---
 
