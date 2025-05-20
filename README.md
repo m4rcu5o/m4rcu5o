@@ -21,7 +21,6 @@
 - [PumpSwap volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot) - PumpSwap AMM volume bot using most most up to date SDK.
 - [Raydium volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot) - Raydium volume booster running on CLMM & CPMM.
 - [Copy trading bot](https://github.com/m4rcu5o/Copy-trading-bot) - Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
-.
 - [Pump fun bundler](https://github.com/m4rcu5o/Pump.fun-bundler) - An open-source #Solana #Bundler for #Pump.Fun that enables you to create a token and package it with 25 purchases.
 
 ---
