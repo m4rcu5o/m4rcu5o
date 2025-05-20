@@ -32,14 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rcu5o&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rcu5o&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 - [Telegram](https://t.me/m4rcu5sol)
 
