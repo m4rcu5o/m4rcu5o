@@ -42,7 +42,6 @@
 
 ### 🔗 Connect with Me
 - [Telegram](https://t.me/m4rcu5sol)
-- [Twitter](https://twitter.com/m4rcu5sol)
 
 ---
 
