@@ -15,7 +15,7 @@
 
 ---
 
-### 💡 Projects Worth Checking Out
+### 💡 Recent project
 - [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract) - Solana Pump fun smart contract integrating pump.fun + meteora CPI.
 - [Solana-Twitter-AI-Agent](https://github.com/m4rcu5o/Solana-Twitter-AI-Agent) - Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
 - [PumpSwap volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot) - PumpSwap AMM volume bot using most most up to date SDK.
