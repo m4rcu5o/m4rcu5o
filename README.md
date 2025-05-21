@@ -18,27 +18,27 @@
 ### 💡 Recent project
 - [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract):
 
-Solana Pump fun smart contract integrating pump.fun + meteora CPI.
+  Solana Pump fun smart contract integrating pump.fun + meteora CPI.
 
 - [Solana-Twitter-AI-Agent](https://github.com/m4rcu5o/Solana-Twitter-AI-Agent):
 
-Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
+  Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
 
 - [PumpSwap volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
 
-PumpSwap AMM volume bot using most most up to date SDK.
+  PumpSwap AMM volume bot using most most up to date SDK.
 
 - [Raydium volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
 
-Raydium volume booster running on CLMM & CPMM.
+  Raydium volume booster running on CLMM & CPMM.
 
 - [Copy trading bot](https://github.com/m4rcu5o/Copy-trading-bot):
 
-Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
+  Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
 
 - [Pump fun bundler](https://github.com/m4rcu5o/Pump.fun-bundler):
 
- An open-source #Solana #Bundler for #Pump.Fun that enables you to create a token and package it with 25 purchases.
+  An open-source #Solana #Bundler for #Pump.Fun that enables you to create a token and package it with 25 purchases.
 
 ---
 
