@@ -40,6 +40,10 @@
 
   An open-source #Solana #Bundler for #Pump.Fun that enables you to create a token and package it with 25 purchases.
 
+- [Ordinal inscription](https://github.com/m4rcu5o/inscribe_mode):
+
+  Bitcoin ordinals inscription - recursive inscription, create collection, inscribe on special sat, batch inscription
+
 ---
 
 ### 🛠️ Tech Stack
