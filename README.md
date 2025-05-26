@@ -43,7 +43,10 @@
 - [Bitcoin Ordinal inscription](https://github.com/m4rcu5o/inscribe_mode):
 
   Bitcoin ordinals inscription - recursive inscription, create collection, inscribe on special sat, batch inscription
+  
+- [Solana sniper track bot](https://github.com/m4rcu5o/Solana-sniper-track-bot):
 
+  Spysniper for track snipping wallet, tracking trader's wallet.
 ---
 
 ### 🛠️ Tech Stack
