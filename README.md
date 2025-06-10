@@ -32,6 +32,14 @@
 
   Raydium volume booster running on CLMM & CPMM.
 
+- [Meteora volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
+
+  Meteora volume booster running on DLMM & Dynamic AMM.
+  
+- [Bonk.fun (Raydium LaunchLab) volume bot(bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
+
+  Bonk.fun (Raydium LaunchLab) volume running on LaunchLab.
+
 - [Copy trading bot](https://github.com/m4rcu5o/Copy-trading-bot):
 
   Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
