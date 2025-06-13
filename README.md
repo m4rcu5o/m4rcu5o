@@ -24,19 +24,19 @@
 
   Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
 
-- [PumpSwap volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
+- [PumpSwap volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
 
   PumpSwap AMM volume bot using most most up to date SDK.
 
-- [Raydium volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
+- [Raydium volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
 
   Raydium volume booster running on CLMM & CPMM.
 
-- [Meteora volume bot(bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
+- [Meteora volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
 
   Meteora volume booster running on DLMM & Dynamic AMM.
   
-- [Bonk.fun (Raydium LaunchLab) volume bot(bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
+- [Bonk.fun Raydium LaunchLab volume bot (bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
 
   Bonk.fun (Raydium LaunchLab) volume running on LaunchLab.
 
