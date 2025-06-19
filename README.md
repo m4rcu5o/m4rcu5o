@@ -18,7 +18,7 @@
 ### 💡 Recent project
 - [Solana volume bot (bundler)](https://github.com/m4rcu5o/Solana-Volume-Bot):
 
-  PumpSwap, Raydium (CLMM & CPMM), Meteora (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
+  **PumpSwap**, **Raydium** (CLMM & CPMM), **Meteora** (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
   
 - [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract):
 
