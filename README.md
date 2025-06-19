@@ -16,25 +16,17 @@
 ---
 
 ### 💡 Recent project
+- [Solana volume bot (bundler)](https://github.com/m4rcu5o/Solana-Volume-Bot):
+
+  PumpSwap, Raydium (CLMM & CPMM), Meteora (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
+  
 - [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract):
 
   Solana Pump fun smart contract integrating pump.fun + meteora CPI.
 
 - [Solana-Twitter-AI-Agent](https://github.com/m4rcu5o/Solana-Twitter-AI-Agent):
 
-  Twitter AI Tweet bot automatically responds to mentions and tweet replies on Twitter.
-
-- [PumpSwap volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
-
-  PumpSwap AMM volume bot using most most up to date SDK.
-
-- [Raydium volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
-
-  Raydium volume booster running on CLMM & CPMM.
-
-- [Meteora volume bot (bundler)](https://github.com/m4rcu5o/Solana-Pumpswap-Raydium-Volum-Bot):
-
-  Meteora volume booster running on DLMM & Dynamic AMM.
+  Twitter AI Tweet bot automatically
   
 - [Bonk.fun Raydium LaunchLab volume bot (bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
 
