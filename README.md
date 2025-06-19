@@ -19,6 +19,10 @@
 - [Solana volume bot (bundler)](https://github.com/m4rcu5o/Solana-Volume-Bot):
 
   **PumpSwap**, **Raydium** (CLMM & CPMM), **Meteora** (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
+
+- [Solana casino game](https://github.com/m4rcu5o/Solana-Coinflip-Casino-Game)
+
+  Solana coinflip PVP casino game - exciting and dynamic multiplayer betting game where players create betting room and filp coin to win big.
   
 - [Pump.fun-smart-contract-forking](https://github.com/m4rcu5o/Solana-pump.fun-smart-contract):
 
