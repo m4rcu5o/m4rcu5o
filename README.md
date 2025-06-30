@@ -51,6 +51,10 @@
 - [Solana sniper track bot](https://github.com/m4rcu5o/Solana-sniper-track-bot):
 
   Spysniper for track snipping wallet, tracking trader's wallet.
+
+- [Telegram quiz game](https://github.com/m4rcu5o/tg-app-quiz):
+
+  Telegram bot for quiz game that players can get profit answering questions.
 ---
 
 ### 🛠️ Tech Stack
