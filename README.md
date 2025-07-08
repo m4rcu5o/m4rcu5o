@@ -20,6 +20,10 @@
 
   **PumpSwap**, **Raydium** (CLMM & CPMM), **Meteora** (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
 
+- [Bonk.fun Raydium LaunchLab volume bot (bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
+
+  Bonk.fun (Raydium LaunchLab) volume running on LaunchLab.
+
 - [Solana casino game](https://github.com/m4rcu5o/Solana-Coinflip-Casino-Game)
 
   Solana coinflip PVP casino game - exciting and dynamic multiplayer betting game where players create betting room and filp coin to win big.
@@ -31,10 +35,6 @@
 - [Solana-Twitter-AI-Agent](https://github.com/m4rcu5o/Solana-Twitter-AI-Agent):
 
   Twitter AI Tweet bot automatically
-  
-- [Bonk.fun Raydium LaunchLab volume bot (bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
-
-  Bonk.fun (Raydium LaunchLab) volume running on LaunchLab.
 
 - [Copy trading bot](https://github.com/m4rcu5o/Copy-trading-bot):
 
