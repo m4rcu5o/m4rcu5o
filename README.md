@@ -36,6 +36,10 @@
 
   Twitter AI Tweet bot automatically
 
+- [EVM-AI-Agent](https://github.com/HyperBuildX/EVM-AI-Agent):
+
+  EVM AI Agent that helps users execute transactions, deploy and verify contracts, check wallet balance, and more - all on EVM compatible chains via friendly, chat-based interaction.
+
 - [Copy trading bot](https://github.com/m4rcu5o/Copy-trading-bot):
 
   Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
