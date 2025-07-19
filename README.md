@@ -20,9 +20,13 @@
 
   **PumpSwap**, **Raydium** (CLMM & CPMM), **Meteora** (DLMM & Dynamic AMM) volume bot using most most up to date SDK.
 
-- ### [Bonk.fun Raydium LaunchLab volume bot (bundler)](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
+- ### [Bonk.fun Raydium LaunchLab volume bot](https://github.com/m4rcu5o/Bonk-dot-fun-Launch-Lab-Volume-Bot):
 
   Bonk.fun (Raydium LaunchLab) volume running on LaunchLab.
+
+- ### [Letsbonkfun bundler](https://github.com/m4rcu5o/Solana-bonkfun-bundler):
+
+  letsbonk.fun (Raydium LaunchLab) bunder - create and buy token in same block with 12 wallets.
 
 - ### [Solana casino game](https://github.com/m4rcu5o/Solana-Coinflip-Casino-Game)
 
